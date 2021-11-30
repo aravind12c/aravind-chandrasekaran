@@ -36,4 +36,4 @@ Below are the points considered while creating the framework
 - Framework - Cucumber(For Test approach), Rest Assured(For API Automation), Extent(For Report)
 - Language - Java
 
-The test cases are designed in such a way that, for every action like Post/Put/Delete, I am trying to get the specific ID to validate whether the changes are updated or not.
+The test cases are designed in such a way that, for every action like Post/Put/Delete, I am trying to get the specific ID to validate whether the changes are updated or not. The above approach helps us to build an robust framework, where we can reuse the steps based on our implementation and report will be shown perfectly.
